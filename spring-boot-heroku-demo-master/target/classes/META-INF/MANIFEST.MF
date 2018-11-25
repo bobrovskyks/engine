@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: konstantinbobrovsky
+Build-Jdk: 11
+Implementation-Title: spring-boot-heroku-demo
+Implementation-Version: 0.2.6
+Implementation-Vendor-Id: com.github.britter
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+
